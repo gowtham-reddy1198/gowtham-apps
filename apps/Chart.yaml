@@ -5,5 +5,5 @@ type: application
 version: 0.1.0
 dependencies:
   - name: apps
-    version: "1.0.1"
+    version: "1.0.2"
     repository: "https://gowtham-reddy1198.github.io/helm-base-charts"
