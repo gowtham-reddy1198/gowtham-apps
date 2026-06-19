@@ -1,6 +1,6 @@
 dependencies:
 - name: apps
   repository: https://gowtham-reddy1198.github.io/helm-base-charts
-  version: 1.0.2
-digest: sha256:0ae001d16b32f8466f5889fe5d7d772252dca5685fabf13182646102e609d8ab
-generated: "2026-06-20T00:24:35.3606225+05:30"
+  version: 1.0.3
+digest: sha256:7f15f07f13ed4d0b7631a046efa6800d8c29b9f326d3af331c54db7bddd6d0e0
+generated: "2026-06-20T00:53:28.4573346+05:30"
