@@ -1,8 +1,2 @@
-helm-base-chart:
-  global:
-    repoURL: https://github.com/gowtham-reddy1198/gowtham-apps
-    targetRevision: master
-    namespace: gowtham-dev
-
-  applications:
-    - name: nginx-app
+applications:
+  - name: nginx-app
