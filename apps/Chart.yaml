@@ -1,0 +1,9 @@
+apiVersion: v2
+name: apps
+description: App of Apps - generates ArgoCD applications
+type: application
+version: 0.1.0
+dependencies:
+  - name: helm-base-chart
+    version: "0.1.0"
+    repository: "https://gowtham-reddy1198.github.io/helm-base-charts"
