@@ -4,4 +4,5 @@ apps:
     - name: nginx1-app
     - name: nginx2-app
     - name: nginx3-app
+    - name: nginx4-app
 
